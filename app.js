@@ -1,2 +1,3 @@
+"use strict";
 console.log("adios");
-console.log("hola mundo");
+console.log("holasdsaa muasdsndo");

@@ -1,3 +1,4 @@
+"use strict";
 function nombreCompleto(nombre, apellido, capitalizado) {
     if (capitalizado === void 0) { capitalizado = true; }
     if (capitalizado) {

@@ -1,3 +1,4 @@
+"use strict";
 var flash = {
     nombre: "Barry Allen",
     edad: 25,

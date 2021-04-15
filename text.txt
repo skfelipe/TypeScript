@@ -1,0 +1,11 @@
+tsc -init
+
+
+
+tsc nombrearchivo.ts -- removeComments
+
+unir archivos [archivo salida] [nombre archivos]
+tsc --outFile main.js main main2 main3
+
+
+tsc -w

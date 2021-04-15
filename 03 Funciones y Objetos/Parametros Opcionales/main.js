@@ -1,3 +1,4 @@
+"use strict";
 function hola(nombre) {
     return "Hola" + nombre;
 }

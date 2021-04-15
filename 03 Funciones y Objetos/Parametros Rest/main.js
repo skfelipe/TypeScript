@@ -1,3 +1,4 @@
+"use strict";
 function nombreCompleto(nombre) {
     var losDemasParametros = [];
     for (var _i = 1; _i < arguments.length; _i++) {
