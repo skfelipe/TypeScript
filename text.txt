@@ -9,3 +9,18 @@ tsc --outFile main.js main main2 main3
 
 
 tsc -w
+
+
+
+npm install systemjs@0.19.41
+
+npm install lite-server --save-dev
+
+
+incorporar en archivo package.json la siguiente linea de codigo.
+
+"scripts": {
+  "dev": "lite-server"
+},
+
+npm run dev

@@ -13,7 +13,7 @@
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
     // "declarationMap": true,                /* Generates a sourcemap for each corresponding '.d.ts' file. */
     "sourceMap": false,                     /* Generates corresponding '.map' file. */
-     "outFile": "build/main.ts",                       /* Concatenate and emit output to single file. */
+    //"outFile": "build/main.ts",                       /* Concatenate and emit output to single file. */
     // "outDir": "./",                        /* Redirect output structure to the directory. */
     // "rootDir": "./",                       /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
     // "composite": true,                     /* Enable project compilation */
@@ -68,7 +68,9 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "include":[
-    "05 Depuracion de Errores y Archivo tsconfig.json/Outfile - archivo de salida/*"
+
+    "10 Modulos/Modulos/**/*"
+
   ],
   "exclude":[
     "02 Tipos Basicos",
@@ -76,6 +78,38 @@
     "04 Objetos Personalizados",
     "05 Depuracion de Errores y Archivo tsconfig.json/Depuracion/*",
     "05 Depuracion de Errores y Archivo tsconfig.json/Remover Comentarios/*",
-    "05 Depuracion de Errores y Archivo tsconfig.json/Incluir y Excluir archivos/*"
+    "05 Depuracion de Errores y Archivo tsconfig.json/Incluir y Excluir archivos/*",
+    "05 Depuracion de Errores y Archivo tsconfig.json/Outfile - archivo de salida/*",
+    "06 Caracteristicas de ES6/Variables let/*",
+    "06 Caracteristicas de ES6/Variables const/*",
+    "06 Caracteristicas de ES6/Templates literales/*",
+    "06 Caracteristicas de ES6/Funciones Flecha/*",
+    "06 Caracteristicas de ES6/Destructuracion de Objetos/*",
+    "06 Caracteristicas de ES6/Destructuracion de Arreglos/*",
+    "06 Caracteristicas de ES6/Nuevo Ciclos - for Of/*",
+    "06 Caracteristicas de ES6/Introduccion POO/*",
+    "06 Caracteristicas de ES6/Clases ES6/*",
+    "06 Caracteristicas de ES6/Ejercicio Practico 04/*",
+    "07 Clases en TypeScript/Definicion de una clase Basica en TypeScript/*",
+    "07 Clases en TypeScript/Constructores/*",
+    "07 Clases en TypeScript/Propiedades Publicas, Privadas y Protegidas/*",
+    "07 Clases en TypeScript/Metodos Publicos, Privados y Protegidos/*",
+    "07 Clases en TypeScript/Herencia super y definicion de propiedades en el constructor/*",
+    "07 Clases en TypeScript/Gets y Sets/*",
+    "07 Clases en TypeScript/Metodos y Propiedades estaticos/*",
+    "07 Clases en TypeScript/Clases Abstractas/*",
+    "07 Clases en TypeScript/Constructores Privados/*",
+    "08 Interfaces/Interfaz Basica/*",
+    "08 Interfaces/Propiedades Opcionales/*",
+    "08 Interfaces/Metodos en la Interfaz/*",
+    "08 Interfaces/Interfaces en las Clases/*",
+    "08 Interfaces/Interfaces para las Funciones/*",
+    "08 Interfaces/Ejercicio 05/*",
+    "09 NameSpace/Creando un namespace/*",
+    "09 NameSpace/Creando un namespace/**/*"
+
+
+
+
   ]
 }
