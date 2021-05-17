@@ -69,7 +69,11 @@
   },
   "include":[
 
+<<<<<<< HEAD
     "10 Modulos/Modulos/**/*"
+=======
+    "08 Interfaces/Interfaz Basica/*"
+>>>>>>> 8611f71c13320f91faf5baba5ce65137c319020f
 
   ],
   "exclude":[
@@ -99,6 +103,7 @@
     "07 Clases en TypeScript/Metodos y Propiedades estaticos/*",
     "07 Clases en TypeScript/Clases Abstractas/*",
     "07 Clases en TypeScript/Constructores Privados/*",
+<<<<<<< HEAD
     "08 Interfaces/Interfaz Basica/*",
     "08 Interfaces/Propiedades Opcionales/*",
     "08 Interfaces/Metodos en la Interfaz/*",
@@ -107,6 +112,8 @@
     "08 Interfaces/Ejercicio 05/*",
     "09 NameSpace/Creando un namespace/*",
     "09 NameSpace/Creando un namespace/**/*"
+=======
+>>>>>>> 8611f71c13320f91faf5baba5ce65137c319020f
 
 
 
